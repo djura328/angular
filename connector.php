@@ -2,7 +2,7 @@
 $host="localhost"; 
 $user="root";
 $pass="";
-$table="wordpress";
+$table="angular";
 
 $link = mysqli_connect($host, $user, $pass, $table);
 ?>
